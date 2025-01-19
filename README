@@ -1,0 +1,10 @@
+Name: Noah Wagner
+Email: noah.wagner@wsu.edu
+
+FILES:
+	.gitignore - Tells git to ignore the visual_guides directory & .DS_Store file.
+	about.html - Page discussing details about the "team" behind the pet service.
+	contact.html - A page containing information on how to contact the team.
+	index.html - Entry page to the website.
+	pet_video_pixabay.mp4 - A video of a dog used in index.html.
+	Project2_DOM&Writeup.pdf - Contains a DOM diagram, a brief writeup, and a link to the website.
